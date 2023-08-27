@@ -1,4 +1,4 @@
-### Olá! meu nome é Thiago Lopes 👋
+## Olá! meu nome é Thiago Lopes 👋
 
 - 🔭 Sou estudante de Engenharia da Computação, atualmente estou entrando no mundo do desenvolvimento WEB, mas - também - com experiencias no desenvolvimento de Hardweres e automação.
 - 🌱 Estou estudando diferentes liguagens como Python, C++ e JavaScript.
