@@ -24,4 +24,4 @@
 
 Você pode conferir meu currículo Lattes para mais informações sobre minha trajetória acadêmica e profissional.
 
-[![Currículo Lattes](https://img.shields.io/badge/Currículo%20Lattes-blue?style=for-the-badge&logoColor=white)](https://buscatextual.cnpq.br/buscatextual/visualizacv.do)
+[![Currículo Lattes](https://img.shields.io/badge/Currículo%20Lattes-blue?style=for-the-badge&logoColor=white)](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8930921E0&tokenCaptchar=03AFcWeA5aX0bs0UeFNTUIlR-74ScWKg0bJbvTE5RIWW82KQ8fh3GaK4JUF4cULtHyVORiMUXDkV3AI65BDDuyjTheHJsgyk29coWT00NjYuAOEoKwxemPUb4ASkjRUtATF76XI3Ui3ak8MBJE0fDUg8AkB-cwuHVzh6EA54It1-OJqHIkmnZnQ88fwD04hO0sta3CUYaAQHMEzTffHEvrmRFfyKLo58Rk-Y1Wr9TrcVOg5pU6AxwNs_ZV74_2z63X__XZNc1vU-K88SBGYffMDUTP8qbVmVJI67MZGBSLF9CN-_ZVdXKDS2N8Cb8YvrKAUtTGdxaYkCkrhDqFn2Jq3VnFcmhAGjIhSD2Vshge0f5BzHJHQmFhoTHpWkI9ELhOQ5KaloCjJpxQVwihcPhOYvECHRSc5nRJ376kX5jK1JSjK6b2vm4yL4COKEWe1sTnUflxS_5_9qRBmzpY-jVg2zZSGrwTFtKxH3HVby-3rSoXiwbd7RHO5ryGynUSJIvUGPoCHqH1mAFAD003u7gdxKfZ771HBrl7k1OU78vgk0tzm4OCNWGMA3BVz-WYxT423NC67cTV-pc1)
