@@ -19,3 +19,9 @@
 ### Estatísticas do meu GitHub:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagonasmto&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Currículo Lattes:
+
+Você pode conferir meu currículo Lattes para mais informações sobre minha trajetória acadêmica e profissional.
+
+[![Currículo Lattes](https://img.shields.io/badge/Currículo%20Lattes-blue?style=for-the-badge&logoColor=white)](https://buscatextual.cnpq.br/buscatextual/visualizacv.do)
